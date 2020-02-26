@@ -1,8 +1,8 @@
 # API XML - Web Services 
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP : 
+### NOM : Bocquillon
+### Prénom : Louis
+### Groupe de TP : 1
 - [x] 1
 
 ### 0. Création et initialisation du projet "RoomBooking"
